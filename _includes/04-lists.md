@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+Favorite activities:
+* Code
+* Sleep
+* Travel
+* Training
+  * Running
+  * Yoga
